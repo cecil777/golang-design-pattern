@@ -13,3 +13,4 @@
 ### 结构型模式
 
 - [外观模式 (Facade) ](https://github.com/cecil777/golang-design-pattern/tree/main/01_facade/README.md)
+- [适配器模式 (Adapter) ](https://github.com/cecil777/golang-design-pattern/tree/main/02_adapter/README.md)
