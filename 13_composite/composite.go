@@ -24,6 +24,8 @@ func NewComponent(kind int, name string) Component {
 	case CompositeNode:
 		c = NewComposite()
 	}
+
+	c.SetName(name)
 	return c
 }
 
