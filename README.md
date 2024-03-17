@@ -16,3 +16,4 @@
 - [适配器模式 (Adapter) ](https://github.com/cecil777/golang-design-pattern/tree/main/02_adapter/README.md)
 - [代理模式 (Proxy) ](https://github.com/cecil777/golang-design-pattern/tree/main/09_proxy/README.md)
 - [组合模式 (Composite) ](https://github.com/cecil777/golang-design-pattern/tree/main/13_composite/README.md)
+- [享元模式 (Flyweight) ](https://github.com/cecil777/golang-design-pattern/tree/main/18_flyweight/README.md)
