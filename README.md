@@ -17,3 +17,4 @@
 - [代理模式 (Proxy) ](https://github.com/cecil777/golang-design-pattern/tree/main/09_proxy/README.md)
 - [组合模式 (Composite) ](https://github.com/cecil777/golang-design-pattern/tree/main/13_composite/README.md)
 - [享元模式 (Flyweight) ](https://github.com/cecil777/golang-design-pattern/tree/main/18_flyweight/README.md)
+- [装饰模式 (Decorator) ](https://github.com/cecil777/golang-design-pattern/tree/main/20_decorator/README.md)
