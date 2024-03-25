@@ -18,3 +18,4 @@
 - [组合模式 (Composite) ](https://github.com/cecil777/golang-design-pattern/tree/main/13_composite/README.md)
 - [享元模式 (Flyweight) ](https://github.com/cecil777/golang-design-pattern/tree/main/18_flyweight/README.md)
 - [装饰模式 (Decorator) ](https://github.com/cecil777/golang-design-pattern/tree/main/20_decorator/README.md)
+- [桥模式 (bridge) ](https://github.com/cecil777/golang-design-pattern/tree/main/22_bridge/README.md)
